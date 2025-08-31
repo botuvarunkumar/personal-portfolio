@@ -34,11 +34,13 @@ portfolio/
 
 ⚡ Installation & Setup
 Clone the repository and install dependencies:
+```bash
 git clone https://github.com/yourusername/portfolio.git
 cd portfolio
 npm install
 npm start
 The app will run at http://localhost:3000/
+```
 
 
 
