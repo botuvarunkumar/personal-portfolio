@@ -2,7 +2,9 @@
 This is my personal portfolio website built using HTML, CSS, and JavaScript. It showcases my skills, projects, education, and experiences in a simple and elegant way.
 
 
-**URL** : 
+**URL** : https://botuvarunkumar.vercel.app/
+
+
 🚀 Features
 
 Built with React.js and modern UI practices
